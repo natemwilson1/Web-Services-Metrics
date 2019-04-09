@@ -1,4 +1,6 @@
 KPI metrics for the State of Rhode Island DOIT Web Services Team.  
 Data is pulled from an Airtable database using Airtables JavaScript API.
 
-Download Files to run locally.
+
+View it running here:
+https://webservicesmetrics.herokuapp.com/index.html
